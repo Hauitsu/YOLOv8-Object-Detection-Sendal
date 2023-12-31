@@ -1,0 +1,17 @@
+names:
+- Black Slide A
+- Black Slide B
+- Black Swallow A
+- Black Swallow B
+- Brown Flip Flop
+- Green Swallow
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: final-project-wdloi
+  url: https://universe.roboflow.com/viskom-final-project/final-project-wdloi/dataset/7
+  version: 7
+  workspace: viskom-final-project
+test: test/images
+train: train/images
+val: valid/images
